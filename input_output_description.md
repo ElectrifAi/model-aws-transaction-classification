@@ -15,7 +15,7 @@
 | MCC_DESCRIPTION        | Y                 | The description of the supplier's merchandise category code |
 | PO_DESCRIPTION         | Y                 | The description of the purchase order                       |
 | AMOUNT                 | Y                 | The amount involved in the invoice                          |
-|----------------------------------------------------------------------------------------------------------| 
+ 
 	
 - Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
 	- TRANSACTION_ID  : Unique transaction ID of the transaction                      
