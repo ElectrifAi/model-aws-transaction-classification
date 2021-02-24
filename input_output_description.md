@@ -1,8 +1,9 @@
 # Input/Output Description
 
-- Input: The client should provide the following formatted data in CSV file (1 required).Below are the details for each CSV file. 
+## Input:
+The client should provide the following formatted data in CSV file (1 required).Below are the details for each CSV file. 
 
- **_transaction_info.csv_** (*REQUIRED*): 
+ - **_transaction_info.csv_** (*REQUIRED*): 
     
 | Column                 | Column Required?  | Meaning                                                     |
 |------------------------|-------------------|-------------------------------------------------------------|
@@ -17,9 +18,12 @@
 | AMOUNT                 | Y                 | The amount involved in the invoice                          |
  
 	
-- Output: A list of JSON objects containing the fields listed below. Reference file: sample.csv.out
-	- TRANSACTION_ID  : Unique transaction ID of the transaction                      
-	- PREDICTION      : Prediction of the transaction type                                                                 
+## Output:
+A list of JSON objects containing the fields listed below. Reference file: sample.csv.out
+| Column         | Column Required? | Meaning                                  |
+|----------------|------------------|------------------------------------------|
+| TRANSACTION_ID | Y                | Unique transaction ID of the transaction |
+| PREDICTION     | Y                | Prediction of the transaction type       |                                                               
 	 
 
 	
