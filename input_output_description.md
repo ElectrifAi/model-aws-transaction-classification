@@ -1,7 +1,7 @@
 # Input/Output Description
 
 ## Input:
-The client should provide the following formatted data in CSV file (1 required).Below are the details for each CSV file. 
+The client should provide one comma separated (CSV) file in the below format. Reference file: sample.csv 
 
  - **_transaction_info.csv_** (*REQUIRED*): 
     
