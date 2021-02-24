@@ -8,3 +8,5 @@
  
 SKU: TRNSC-PS-PCM-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-gl26772qvwngo
+
