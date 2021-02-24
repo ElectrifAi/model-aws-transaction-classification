@@ -2,7 +2,7 @@
 
 - Input: The client should provide the following formatted data in CSV file (1 required).Below are the details for each CSV file. 
 
-- **_transaction_info.csv_** (*REQUIRED*): 
+ **_transaction_info.csv_** (*REQUIRED*): 
     
 | Column                 | Column Required?  | Meaning                                                     |
 |------------------------|-------------------|-------------------------------------------------------------|
